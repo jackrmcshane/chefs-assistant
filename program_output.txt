@@ -1,0 +1,36 @@
+Recommended Substitution:  spinach
+Because:
+	both-have-similar-taste arugula spinach tangy
+	both-have-similar-density arugula spinach medium
+	both-have-similar-color arugula spinach dark-green
+
+
+
+Recommended Substitution:  carrot
+Because:
+	both-have-similar-taste lettuce carrot sweet
+	both-have-similar-texture lettuce carrot crunchy
+
+
+
+Recommended Substitution:  arugula
+Because:
+	both-have-similar-taste spinach arugula tangy
+	both-have-similar-density spinach arugula medium
+	both-have-similar-color spinach arugula dark-green
+
+
+
+Recommended Substitution:  carrot
+Because:
+	both-have-similar-taste parsnip carrot sweet
+	both-have-similar-density parsnip carrot dense
+
+
+
+Recommended Substitution:  sweet-potato
+Because:
+	both-have-similar-taste beet-root sweet-potato sweet
+	both-have-similar-texture beet-root sweet-potato tender
+	both-have-similar-density beet-root sweet-potato dense
+	both-have-similar-taste-strength beet-root sweet-potato medium
